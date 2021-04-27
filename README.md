@@ -17,7 +17,5 @@ Foram analisados dados sobre a evolução da quantidade de indígenas ingressant
     
 -   Jupyter Notebook
 
--   Para referência, a execução do código demorou cerca de 10min em um I5-4440 @3.10GHz; 8GB RAM
-
 
 > Microdados para execução dos dados disponivel em inep.gov.br/microdados
