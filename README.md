@@ -6,10 +6,10 @@ Foram analisados dados sobre a evolução da quantidade de indígenas ingressant
 
 
 ![
-](https://lh3.googleusercontent.com/ewNaQisR68IAnCc7FoO70MIUS6amtonKvAFiR76TLYSBHXnletppYz5-SndnmOezXxU_FZNfkN5f "Evolução: Indígenas Ingressantes em Universidades Brasileiras")
+](https://github.com/guilherme4garcia/Analise-Dados-INEP/blob/master/Gr%C3%A1ficos/1.png "Evolução: Indígenas Ingressantes em Universidades Brasileiras")
 
 ![
-](https://lh3.googleusercontent.com/rZIUw1mwbh1dFlrBXnSWfE8pRi7MDHER4S97xvGUQfqhcVSkJGfz9Zp4VSyL7W6MNacNxpIz8vsD "Quantidade de Ingressantes por Etnia em Universidades Brasileiras em 2018")
+](https://github.com/guilherme4garcia/Analise-Dados-INEP/blob/master/Gr%C3%A1ficos/2.png "Quantidade de Ingressantes por Etnia em Universidades Brasileiras em 2018")
 
 ### Requisitos para a execução da análise e apresentação das informações:
 
