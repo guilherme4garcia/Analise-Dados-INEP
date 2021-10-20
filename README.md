@@ -1,6 +1,6 @@
 # Análise de Dados INEP
 
-Foram analisados dados sobre a evolução da quantidade de indígenas ingressantes em universidades brasileiras, entre 2009-2018.
+Foram analisados dados sobre a diferença étnica entre alunos ingressantes em universidades brasileiras, no período de 2009-2018.
 
 ### Resultados obtidos na análise:
 
